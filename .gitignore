@@ -1,0 +1,26 @@
+# Logs de SOC e Debug
+*.log
+logs/
+*.tmp
+
+# Credenciais - NUNCA SUBIR PRO GITHUB
+.env
+*.pem
+*.Key
+*.crt
+id_rsa
+id_rsa.pub
+
+# Arquivos do Sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# VS Code
+.vscode/
+
