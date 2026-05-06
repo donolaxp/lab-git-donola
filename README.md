@@ -24,3 +24,19 @@ Git | GitHub | Blue Team | Incident Response
 ---
 **Autor:** Donolaxp  
 **Status:** Lab concluído com sucesso ✅
+
+markdown# 🛡️ Blue Team Lab - DonolaXP
+
+Detector de tentativas de Brute Force em logs SSH usando Python.
+
+## 🚨 O que faz?
+Analisa arquivos de log e alerta sobre tentativas de invasão via SSH.
+
+## ⚙️ Como rodar
+```bash
+python analisa_log.py📊 Exemplo de Saídajavascript🚨 ALERTA: Failed password for root from 192.168.1.100
+📊 Total de tentativas de invasão detectadas: 2
+⚠️ NÍVEL ATENÇÃO! Monitorar IPs suspeitos.🎯 Skills Demonstradas
+Python para automação Blue TeamAnálise de logs de segurança  Git e GitHub para versionamentoBoas práticas: .gitignore para proteger credenciais👨‍💻 Autor
+Felipe Donola - Futuro Analista de SOC
+
